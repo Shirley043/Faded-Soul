@@ -84,14 +84,14 @@ Material:
     - _MiddleBodyHeightMax: 0.5
     - _MiddleBodyHeightMin: 0.3
     - _Mode: 0
-    - _MoveSpeed: NaN
+    - _MoveSpeed: 0.80371755
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WaveAmplitude: NaN
+    - _WaveAmplitude: 0
     - _WaveFrequency: 1
     - _WaveSpeed: 2
     - _WindSpeed: 1
