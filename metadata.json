@@ -1,0 +1,29 @@
+{
+  "repoUrl": "https://github.com/feit-comp30019/2024s2-project-2-play-station",
+  "teamName": "Play Station",
+  "teamMembers": [
+    {
+      "name": "Yirong Xie",
+      "github": "Shirley043",
+      "email": "yirxie@student.unimelb.edu.au"
+    },
+    {
+      "name": "Ying Qi Lau",
+      "github": "lyingqi",
+      "email": "lyingqi@student.unimelb.edu.au"
+    },
+    {
+      "name": "Wenyuan WU",
+      "github": "WenyuanWu-Git",
+      "email": "wenyuanw2@student.unimelb.edu.au"
+    },
+    {
+      "name": "Xin Xu",
+      "github": "Xin343",
+      "email": "xixu9@student.unimelb.edu.au"
+    }
+  ],
+  "gameTitle": "Faded Soul",
+  "gameBlurb": "Our game is a 2.5D runner and platformer game. It focuses on a journey of self-discovery and emotional healing. The player controls a lost and fragmented soul in different environments. They will be collecting pieces of their fragmented soul while running through challenging environments. Each environment triggers a past trauma faced by the main character. They will face various obstacles and enemies that reflect the emotional scars. The goal of the player is to overcome these challenges and collect soul fragments, making the character more whole and gain clarity on their past. As the player progresses, the main character integrates all parts of themselves, heals, and achieves a sense of self-acceptance.",
+  "videoUrl": "https://youtu.be/ezV3p-1nTqA?si=nf4KCPcv_EoUVw2G"
+}
