@@ -1,5 +1,5 @@
 # Faded Soul Game Report
-https://feit-comp30019.github.io/2024s2/#/preview/play-station/2/364327ada9aedeaa09cf7fa91292a8de32c46e05
+Play the game here:: https://feit-comp30019.github.io/2024s2/#/preview/play-station/2/364327ada9aedeaa09cf7fa91292a8de32c46e05
 
 ## Table of Contents
 
