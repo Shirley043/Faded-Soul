@@ -199,6 +199,3 @@ The bomb particle system triggers an explosion 0.5 seconds after the character p
   </tr>
 </table>
 
-## References and External Resources
-
-TODO (to be continuously updated) - see specification for details
